@@ -1,0 +1,14 @@
+[{"CC":"","BCC":"","Subject":"","Body":"Dear Sir\r\n
+\r\n,\r\n
+\r\n
+\r\nKindly find attached Outstanding as per our books of A\\Cs.\r\n
+
+\r\nIn case of any discrepancies contact Chetana Head Office.\r\n
+
+\r\nRegards\r\n
+\r\nChetana publications\r\n
+\r\n
+\r\n()\r\n
+
+\r\nNote:
+\r\nThis is auto generated email and hence kindly don't send any reply on this email."},{"Name":"ALPHONSA HIGH SCHOOL(OAES05)","EmailId":"pratikway.90@gmail.com","Subject":"Detail Outstanding from 01-Apr-2015 TO 31-Mar-2016","Attachment":"F:\\Work\\Chetana\\CBD\\LiveSite\\AutoEmailAttachment\\CustomerOSRpt\\03_31_2016_00_03\\04_05_2016_11_04\\CustomerOS_01-Apr-2015_31-Mar-2016_19083.pdf","Desc":"Detail Outstanding from 01-Apr-2015 TO 31-Mar-2016"}]

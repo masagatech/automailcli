@@ -1,0 +1,26 @@
+F:\Work\Chetana\Sales App\MobileService\AutoMail\AutoMail\bin\Debug\AutoMail.exe
+F:\Work\Chetana\Sales App\MobileService\AutoMail\AutoMail\bin\Debug\AutoMail.pdb
+F:\Work\Chetana\Sales App\MobileService\AutoMail\AutoMail\obj\Debug\AutoMail.exe
+F:\Work\Chetana\Sales App\MobileService\AutoMail\AutoMail\obj\Debug\AutoMail.pdb
+F:\Work\Chetana\Sales App\MobileService\AutoMail\AutoMail\bin\Debug\AutoMail.exe.config
+F:\Work\Chetana\Sales App\MobileService\AutoMail\AutoMail\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Chetana\AutoMail\AutoMail\bin\Debug\AutoMail.exe.config
+F:\Work\Chetana\AutoMail\AutoMail\obj\Debug\AutoMail.exe
+F:\Work\Chetana\AutoMail\AutoMail\obj\Debug\AutoMail.pdb
+F:\Work\Chetana\AutoMail\AutoMail\bin\Debug\AutoMail.exe
+F:\Work\Chetana\AutoMail\AutoMail\bin\Debug\AutoMail.pdb
+F:\Work\Chetana\AutoMail\AutoMail\bin\Debug\Newtonsoft.Json.dll
+E:\Working\AutoMail\AutoMail\bin\Debug\AutoMail.exe.config
+E:\Working\AutoMail\AutoMail\obj\Debug\AutoMail.exe
+E:\Working\AutoMail\AutoMail\obj\Debug\AutoMail.pdb
+E:\Working\AutoMail\AutoMail\bin\Debug\AutoMail.exe
+E:\Working\AutoMail\AutoMail\bin\Debug\AutoMail.pdb
+E:\Working\AutoMail\AutoMail\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Chetana\AutoMail\AutoMail\obj\Debug\AutoMail.csprojResolveAssemblyReference.cache
+C:\Users\Zaid\Desktop\AutoMail1\AutoMail\bin\Debug\AutoMail.exe.config
+C:\Users\Zaid\Desktop\AutoMail1\AutoMail\obj\Debug\AutoMail.exe
+C:\Users\Zaid\Desktop\AutoMail1\AutoMail\obj\Debug\AutoMail.pdb
+C:\Users\Zaid\Desktop\AutoMail1\AutoMail\bin\Debug\AutoMail.exe
+C:\Users\Zaid\Desktop\AutoMail1\AutoMail\bin\Debug\AutoMail.pdb
+C:\Users\Zaid\Desktop\AutoMail1\AutoMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zaid\Desktop\AutoMail1\AutoMail\obj\Debug\AutoMail.csprojResolveAssemblyReference.cache
